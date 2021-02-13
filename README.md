@@ -230,3 +230,5 @@ You can fix this with the following steps before dragging the app to the simulat
         sudo xattr -rd com.apple.quarantine {name-of-the-unzipped-app}.app
         
 1. After typing your password the app has been modified and you can drag an drop it manually to the simulator
+
+## Adding change to trigger Jenkins Build Job POLLING 
